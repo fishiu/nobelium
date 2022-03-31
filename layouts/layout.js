@@ -42,7 +42,7 @@ const Layout = ({
                   alt={BLOG.author}
                   width={24}
                   height={24}
-                  src={'https://pic.fishiu.com/uPic/YmWzas.jpeg'}
+                  src={'http://pic.fishiu.com/uPic/YmWzas.jpeg'}
                   className="rounded-full"
                 />
                 <p className="ml-2 md:block">{BLOG.author}</p>
